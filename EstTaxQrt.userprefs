@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="EstTaxQrt/EstTaxQrt.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EstTaxQrt/Program.fs">
+    <Files>
+      <File FileName="EstTaxQrt/Program.fs" Line="33" Column="33" />
+      <File FileName="EstTaxQrt/firstQrtData.fs" Line="39" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
