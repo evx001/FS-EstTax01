@@ -1,0 +1,5 @@
+/home/evxyz/EstTaxQrt/EstTaxQrt/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/evxyz/EstTaxQrt/EstTaxQrt/bin/Debug/EstTaxQrt.exe.mdb
+/home/evxyz/EstTaxQrt/EstTaxQrt/bin/Debug/EstTaxQrt.exe
+/home/evxyz/EstTaxQrt/EstTaxQrt/obj/x86/Debug/EstTaxQrt.exe
+/home/evxyz/EstTaxQrt/EstTaxQrt/obj/x86/Debug/EstTaxQrt.exe.mdb

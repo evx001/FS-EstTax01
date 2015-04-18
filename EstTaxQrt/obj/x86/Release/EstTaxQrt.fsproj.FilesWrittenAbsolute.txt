@@ -1,0 +1,3 @@
+/home/evxyz/EstTaxQrt/EstTaxQrt/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/evxyz/EstTaxQrt/EstTaxQrt/bin/Release/EstTaxQrt.exe
+/home/evxyz/EstTaxQrt/EstTaxQrt/obj/x86/Release/EstTaxQrt.exe
