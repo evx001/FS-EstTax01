@@ -40,9 +40,8 @@ printfn "taxable NYS $ %A \n "  taxAlbany
 printfn "taxable nyc $ %A \n "  taxNYC
 printfn "taxable Total Obligation $ %A \n "  taxTotalObligado
 
-(*//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
 [<EntryPoint>] 
 let main argv = 
      printfn "%A" argv
      0 // return an integer exit code
-*)
