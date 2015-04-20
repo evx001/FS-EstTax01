@@ -1,0 +1,16 @@
+-- 20150418
+what is the next step ... EstTax?
+
+
+	generisize the inputs?
+		so that I can use generic quarters?
+		an ORM  
+
+
+	remote connectivity to the data source
+		to pull CSV 
+		to pull xls 
+		to pull ... 
+
+
+ 
